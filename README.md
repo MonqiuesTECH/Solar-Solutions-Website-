@@ -1,8 +1,8 @@
 # Solar-Solutions-Website-
 
-[
-](https://hyr4bej5dzhtq.kimi.page)
+ https://hyr4bej5dzhtq.kimi.page
 
+ 
 Project Overview
 Solara Nexus is a streamlined web interface designed to host and deploy an intelligent chatbot assistant. This project focuses on providing a responsive, user-friendly environment for real-time AI interaction, specifically tailored for the Solara Nexus ecosystem.
 
